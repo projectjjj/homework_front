@@ -1,4 +1,4 @@
-name: my-homework-front
+name: my-front
 on:
   push:
     branches:
